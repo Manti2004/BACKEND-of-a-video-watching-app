@@ -1,0 +1,21 @@
+{
+  "name": "first-fully-fetch-backend",
+  "version": "1.0.0",
+  "description": "A fully functionable Backend",
+  "homepage": "https://github.com/Manti2004/BACKEND-of-a-video-watching-app#readme",
+  "bugs": {
+    "url": "https://github.com/Manti2004/BACKEND-of-a-video-watching-app/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Manti2004/BACKEND-of-a-video-watching-app.git"
+  },
+  "license": "ISC",
+  "author": "Priyansu Sekhar Palo",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start" : "node index.js"
+  }
+}
